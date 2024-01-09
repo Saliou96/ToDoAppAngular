@@ -3,7 +3,7 @@
 CRUD pour une application de gestion de tâches.
 Les tâches sont stockées dans un tableau.
 
-Fonctionnalités:
+Fonctionnalités terminées:
 1.Ajouter une tâche
 2.Supprimer une tâche
 3.Editer une tâche (Au clic sur le bouton editer, le nom de la tâche devient "New task")
