@@ -12,8 +12,7 @@ import {FormsModule} from "@angular/forms";
 })
 export class AppComponent{
   title = 'ToDoApp';
-  newTask: string = ''
-  editingTask: { text: string, index: number } | null = null;
+  newTask: string = '';
 
   tasks : Array<{ done: boolean; text: string }> = [
     { done: false, text: 'Install Dependencies' },
@@ -44,7 +43,7 @@ export class AppComponent{
       this.tasks.splice(index, 1);
     }
   }
-  //Clear table
+  //Clear task list
   clearTasks(): void {
     this.tasks = [];
   }
