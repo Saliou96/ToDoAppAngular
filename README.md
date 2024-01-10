@@ -1,5 +1,8 @@
 # ToDoAppAngular
 
+![image](https://github.com/Saliou96/ToDoAppAngular/assets/68548037/e34a59f0-fe65-4c50-931e-83c35ac047d3)
+
+
 CRUD pour une application de gestion de tâches.
 Les tâches sont stockées dans un tableau.
 
